@@ -1,0 +1,36 @@
+body{
+    
+    background-image: url("../imagenes/portdmcanime.jpg") ;
+    background-size: contain ;
+    background-position: center;
+    font-size: x-large;
+      
+
+}
+div{
+    color: rgb(224, 194, 183);
+    padding: auto;
+    font-style: italic;
+}
+section{
+    color: rgb(226, 239, 250);
+    padding: auto;
+}
+article{
+    color:rgba(190, 178, 178, 0.932);
+    padding: auto;
+    font-style: oblique;
+}
+form{
+    color: aliceblue;
+    padding: auto;
+    font-style: oblique;
+}
+header{
+    color: rgba(221, 187, 187, 0.932);
+    padding: auto;
+}
+footer{
+    color: aliceblue;
+    padding: auto;
+}
